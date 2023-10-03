@@ -15,6 +15,13 @@
 		<maven.compiler.target>20</maven.compiler.target>
 		<maven.compiler.source>20</maven.compiler.source>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<exec.mainClass>DAD.CodeSignal.add</exec.mainClass>
+		<exec.mainClass>DAD.CodeSignal.AdjacentElementsProduct</exec.mainClass>
+		<exec.mainClass>DAD.CodeSignal.App</exec.mainClass>
+		<exec.mainClass>DAD.CodeSignal.centuryFromYear</exec.mainClass>
+		<exec.mainClass>DAD.CodeSignal.MakeArray</exec.mainClass>
+		<exec.mainClass>DAD.CodeSignal.Palindrome</exec.mainClass>
+		<exec.mainClass>DAD.CodeSignal.shapeArea</exec.mainClass>
 	</properties>
 
 	<dependencies>
